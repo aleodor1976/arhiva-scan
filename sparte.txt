@@ -1,0 +1,32 @@
+1:1 94.156.232.140 port: 22 --> Auth User/Pass with PS...fail...Please reconnect!.
+  
+1:1 94.156.200.154 port: 22 --> bad command name uname (line 1 column 1)
+  
+1:123 94.156.200.154 port: 22 --> bad command name uname (line 1 column 1)
+  
+1:123 94.156.232.140 port: 22 --> Auth User/Pass with PS...fail...Please reconnect!.
+  
+1:12345 94.156.232.140 port: 22 --> Auth User/Pass with PS...fail...Please reconnect!.
+  
+1:12345 94.156.200.154 port: 22 --> bad command name uname (line 1 column 1)
+  
+1c:123456 94.156.232.140 port: 22 --> Auth User/Pass with PS...fail...Please reconnect!.
+  
+1:pass 94.156.200.154 port: 22 --> bad command name uname (line 1 column 1)
+  
+1:pass 94.156.232.140 port: 22 --> Auth User/Pass with PS...fail...Please reconnect!.
+  
+1:root 94.156.232.140 port: 22 --> Auth User/Pass with PS...fail...Please reconnect!.
+  
+1:root 94.156.200.154 port: 22 --> bad command name uname (line 1 column 1)
+  
+a:a 94.156.232.140 port: 22 --> Auth User/Pass with PS...fail...Please reconnect!.
+  
+aa:aa 94.156.232.140 port: 22 --> Auth User/Pass with PS...fail...Please reconnect!.
+  
+admin:1234 1.0.155.71 port: 22 --> bad command name uname (line 1 column 1)
+  
+admin:2222 1.0.155.71 port: 22 --> bad command name uname (line 1 column 1)
+  
+admin:admin 1.0.155.71 port: 22 --> bad command name uname (line 1 column 1)
+  

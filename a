@@ -1,0 +1,3 @@
+#!/bin/bash
+clear
+./brute 1000 -b $1 passfile $2 "uname -a"
